@@ -1,2 +1,2 @@
-# typecho-travel
-Typecho 主题 旅行
+# Typecho-Aira
+Typecho Theme Aira.
